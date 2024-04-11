@@ -1,2 +1,2 @@
 # Coffee-Shop-Sales
-Analyze Coffe Shop Sales data created are interacting dahsbourd using Microsoft Excel
+Analyze coffee shop sales data and create an interactive dashboard using Microsoft Excel.
